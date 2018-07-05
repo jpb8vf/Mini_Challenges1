@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vitobertolino/Desktop/Document/Document/Document.csproj",
-      "projectName": "Document",
-      "projectPath": "/Users/vitobertolino/Desktop/Document/Document/Document.csproj",
+      "projectUniqueName": "/Users/vitobertolino/Desktop/Dogs/Dogs/Dogs.csproj",
+      "projectName": "Dogs",
+      "projectPath": "/Users/vitobertolino/Desktop/Dogs/Dogs/Dogs.csproj",
       "packagesPath": "/Users/vitobertolino/.nuget/packages/",
-      "outputPath": "/Users/vitobertolino/Desktop/Document/Document/obj",
+      "outputPath": "/Users/vitobertolino/Desktop/Dogs/Dogs/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
