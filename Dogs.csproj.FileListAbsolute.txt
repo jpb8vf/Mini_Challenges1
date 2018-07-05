@@ -1,0 +1,11 @@
+/Users/vitobertolino/Desktop/Dogs/Dogs/bin/Debug/netcoreapp2.0/Dogs.deps.json
+/Users/vitobertolino/Desktop/Dogs/Dogs/bin/Debug/netcoreapp2.0/Dogs.runtimeconfig.json
+/Users/vitobertolino/Desktop/Dogs/Dogs/bin/Debug/netcoreapp2.0/Dogs.runtimeconfig.dev.json
+/Users/vitobertolino/Desktop/Dogs/Dogs/bin/Debug/netcoreapp2.0/Dogs.dll
+/Users/vitobertolino/Desktop/Dogs/Dogs/bin/Debug/netcoreapp2.0/Dogs.pdb
+/Users/vitobertolino/Desktop/Dogs/Dogs/obj/Debug/netcoreapp2.0/Dogs.csprojResolveAssemblyReference.cache
+/Users/vitobertolino/Desktop/Dogs/Dogs/obj/Debug/netcoreapp2.0/Dogs.csproj.CoreCompileInputs.cache
+/Users/vitobertolino/Desktop/Dogs/Dogs/obj/Debug/netcoreapp2.0/Dogs.AssemblyInfoInputs.cache
+/Users/vitobertolino/Desktop/Dogs/Dogs/obj/Debug/netcoreapp2.0/Dogs.AssemblyInfo.cs
+/Users/vitobertolino/Desktop/Dogs/Dogs/obj/Debug/netcoreapp2.0/Dogs.dll
+/Users/vitobertolino/Desktop/Dogs/Dogs/obj/Debug/netcoreapp2.0/Dogs.pdb
